@@ -1,2 +1,3 @@
-1 var i =0;
-2 alert(i=+1);
+1 var i =2;
+2 var j = 1;
+3 alert(i=+j);
