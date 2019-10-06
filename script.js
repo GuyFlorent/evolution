@@ -3,5 +3,5 @@
 }
 
 2 function b(){
-	return "b"
+	return "B"
 }
