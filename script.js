@@ -1,2 +1,7 @@
-2 var hello = "hello world"; 
-1 alert(hello
+1 function a() {
+	return "a"
+}
+
+2 function b(){
+	return "b"
+}
