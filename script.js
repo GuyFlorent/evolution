@@ -7,3 +7,4 @@
 2 function b(){
 	return "B"
 }
+var b = c;
